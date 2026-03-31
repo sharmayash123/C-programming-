@@ -21,7 +21,7 @@ int main()
         float x, y;
     };
 
-    // Declaring structure variable's (two points for determing distance between them)
+    // Declaring structure variable's (two points for determining distance between them)
     struct point P1, P2;
 
     float distance;
@@ -34,7 +34,8 @@ int main()
 
     // Distance calculation
     distance = sqrt(pow(P1.x - P2.x,2) + pow(P1.y - P2.y,2));
-
+ 
+   // Output
     printf("Distance between two points is : %.2f", distance);
 
     return 0;
