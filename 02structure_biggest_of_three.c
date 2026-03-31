@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-    Program: Find Largest of Three Numbers using Structure
+    Program: Find Largest of three numbers using Structure
 
     Description:
     This program uses a structure to store three numbers
